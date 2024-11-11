@@ -25,5 +25,3 @@ For each test case:
 - For any failures, review the input criteria and ensure that the test setup aligns with expected inputs.
 - For failed cases, document the observed behavior and any error messages for follow-up or debugging purposes.
 
-## Submitting Results
-Save and commit the updated file to the repository if required by the assessment.
