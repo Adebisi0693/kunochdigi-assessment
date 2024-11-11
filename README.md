@@ -8,7 +8,8 @@ This repository contains details of the assessments as regards test cases for a 
 3) Test Data needed to test.
    
 ## Test Execution Instructions
-1) Clone the Repository using : `https://github.com/Adebisi0693/kunochdigi-assessment`.
+1) Clone the Repository using
+ `git clone https://github.com/Adebisi0693/kunochdigi-assessment`.
 
 2) Navigate to the file containing the test cases (Junior Level Quality Assurance Assessment.xlsx).
 
